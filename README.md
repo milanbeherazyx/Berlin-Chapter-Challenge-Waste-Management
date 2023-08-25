@@ -1,8 +1,4 @@
-# chapter-project-repository-template
-Use this Repository as a template for creating Local Chapter Repositories
-
-
-# [Berlin-Chapter-Challenge-Waste-Management]
+# Berlin-Chapter-Challenge-Waste-Management
 
 
 ## Contribution Guidelines
